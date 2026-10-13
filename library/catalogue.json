@@ -9,9 +9,21 @@
       "books": [
         {
           "title": "The Dance of Five Blades",
-          "author": "Lu Wen",
-          "description": "The Origin Story of Han Yuelan",
+          "author": "Written by Lu Wen",
+          "description": "Book 1: The Origin Story of Han Yuelan",
           "file": "pdfs/The Dance of Five Blades.pdf"
+        },
+        {
+          "title": "A Catalogue of Spirits, Demons, and Household Superstitions",
+          "author": "Compiled by Scholar Lu Wenqing of the Imperial Academy of Natural and Unnatural Studies",
+          "description": "Book 1: Of Hearth, Threshold, and the Uninvited Dead; Revised in the Thirty-Second Year of the Reign of Emperor Zhaoming",
+          "file": "pdfs/A Catalogue of Spirits, Demons, and Household Superstitions.pdf"
+        },
+        {
+          "title": "The Jade Cauldron A Tianxia Potion Recipe Book",
+          "author": "Compiled by Scholar-Physician Wei Zhen of the Academy of Apothecaries",
+          "description": "Book I: Of Common Tonics, Uncommon Elixirs, and the Proper Use of an Hourglass; A field copy prepared for physicians, travelers, and curious householders of Tianxia",
+          "file": "pdfs/The_Jade_Cauldron_A_Tianxia_Potion_Recipe_Book.pdf"
         }
       ]
     }
