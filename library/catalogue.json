@@ -1,4 +1,19 @@
 {
   "version": 1,
-  "libraries": []
+  "libraries": [
+    {
+      "id": "Old Master Shen Private Collection",
+      "name": "Old Master Shen Private Collection",
+      "location": "Old Master Shen Home",
+      "notes": "Old Master Shen likes to sit on his padded chair and read these books next to the fire place",
+      "books": [
+        {
+          "title": "The Dance of Five Blades",
+          "author": "Lu Wen",
+          "description": "The Origin Story of Han Yuelan",
+          "file": "pdfs/The Dance of Five Blades.pdf"
+        }
+      ]
+    }
+  ]
 }
