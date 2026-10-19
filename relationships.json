@@ -9,9 +9,10 @@
   ],
   "organizations": [
     {"name": "Jade Regency", "score": 0, "notes": ""},
-    {"name": "Crimson Shogunate", "score": 0, "notes": ""},
-    {"name": "Azure Mountain Confederacy", "score": 0, "notes": ""},
-    {"name": "Verdant Court", "score": 0, "notes": ""},
-    {"name": "Golden Khanate", "score": 0, "notes": ""}
+    {"name": "Crimson Shogunate", "score": 1, "notes": "Ryujin came from here"},
+    {"name": "Azure Mountain Confederacy", "score": 1, "notes": "Feng came from here"},
+    {"name": "Verdant Court", "score": 3, "notes": "Ryouta, Tekeru, and Nihla came from here"},
+    {"name": "Golden Khanate", "score": 0, "notes": ""},
+    {"name": "The White Crane Martial Sect", "score": 0, "notes": ""}
   ]
 }
