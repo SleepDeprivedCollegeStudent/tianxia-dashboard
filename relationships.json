@@ -1,18 +1,66 @@
 {
   "updated": "Initial campaign ledger",
+  "campaign": {
+    "date": "0940-09-01",
+    "notes": "The campaign begins on the first day of September, 940. The party meet in Laughing Carp in the Willow Creek Village"
+  },
   "npcs": [
-    {"name": "Mei Lin", "score": 1, "notes": "She likes hearing stories about their adventures"},
-    {"name": "Little Hao", "score": -1, "notes": "He got beaten by Ryouta on the Challenge a Champion"},
-    {"name": "Young Master Li Zheng", "score": -1, "notes": "He got beaten by Ryujin and Feng on the Challenge a Champion"},
-    {"name": "Master Wu Lan", "score": 0, "notes": "Met at Challenge a Champion"},
-    {"name": "Old Man Liu", "score": 0, "notes": "Met at Challenge a Champion"}
+    {
+      "name": "Mei Lin",
+      "score": 1,
+      "notes": "She likes hearing stories about their adventures"
+    },
+    {
+      "name": "Little Hao",
+      "score": -1,
+      "notes": "He got beaten by Ryouta on the Challenge a Champion"
+    },
+    {
+      "name": "Young Master Li Zheng",
+      "score": -1,
+      "notes": "He got beaten by Ryujin and Feng on the Challenge a Champion"
+    },
+    {
+      "name": "Master Wu Lan",
+      "score": 0,
+      "notes": ""
+    },
+    {
+      "name": "Old Man Liu",
+      "score": 0,
+      "notes": ""
+    }
   ],
   "organizations": [
-    {"name": "Jade Regency", "score": 0, "notes": ""},
-    {"name": "Crimson Shogunate", "score": 1, "notes": "Ryujin came from here"},
-    {"name": "Azure Mountain Confederacy", "score": 1, "notes": "Feng came from here"},
-    {"name": "Verdant Court", "score": 3, "notes": "Ryouta, Tekeru, and Nihla came from here"},
-    {"name": "Golden Khanate", "score": 0, "notes": ""},
-    {"name": "The White Crane Martial Sect", "score": 0, "notes": ""}
+    {
+      "name": "Jade Regency",
+      "score": 0,
+      "notes": ""
+    },
+    {
+      "name": "Crimson Shogunate",
+      "score": 1,
+      "notes": "Ryujin came from here"
+    },
+    {
+      "name": "Azure Mountain Confederacy",
+      "score": 1,
+      "notes": "Feng came from here"
+    },
+    {
+      "name": "Verdant Court",
+      "score": 3,
+      "notes": "Ryouta, Nilah, and Tekeru came from here "
+    },
+    {
+      "name": "Golden Khanate",
+      "score": 0,
+      "notes": ""
+    },
+    {
+      "name": "White Crane Martial School",
+      "score": 0,
+      "notes": ""
+    }
   ]
 }
