@@ -1,0 +1,17 @@
+{
+  "updated": "Initial campaign ledger",
+  "npcs": [
+    {"name": "Mei Lin", "score": 1, "notes": "She likes hearing stories about their adventures"},
+    {"name": "Little Hao", "score": -1, "notes": "He got beaten by Ryouta on the Challenge a Champion"},
+    {"name": "Young Master Li Zheng", "score": -1, "notes": "He got beaten by Ryujin and Feng on the Challenge a Champion"},
+    {"name": "Master Wu Lan", "score": 0, "notes": "Met at Challenge a Champion"},
+    {"name": "Old Man Liu", "score": 0, "notes": "Met at Challenge a Champion"}
+  ],
+  "organizations": [
+    {"name": "Jade Regency", "score": 0, "notes": ""},
+    {"name": "Crimson Shogunate", "score": 0, "notes": ""},
+    {"name": "Azure Mountain Confederacy", "score": 0, "notes": ""},
+    {"name": "Verdant Court", "score": 0, "notes": ""},
+    {"name": "Golden Khanate", "score": 0, "notes": ""}
+  ]
+}
