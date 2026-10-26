@@ -13,8 +13,8 @@
         "rotate": 0
       },
       "view": {
-        "x": 265.6579073963235,
-        "y": -138.1382891056977,
+        "x": -379.95093211519224,
+        "y": -390.1488642858226,
         "zoom": 0.99
       },
       "markers": [
@@ -33,7 +33,7 @@
           "type": "token",
           "tokenId": "id-mvhlcpqd-3lea3jh",
           "name": "Ryujin",
-          "notes": "Master Wu Lan promised to teach him and his friend Yán Quán (Extending Fist) and one other technique if he help recover 9 jin (12 lbs) of Madame Zhang Yating grain from the grain bandits",
+          "notes": "",
           "x": 2546,
           "y": 1919,
           "size": 64
@@ -63,9 +63,9 @@
           "type": "token",
           "tokenId": "id-mvhlg31g-r9wbxbg",
           "name": "Ryouta",
-          "notes": "",
-          "x": 2441,
-          "y": 1879,
+          "notes": "Master Wu Lan promised to teach him and his friend Yán Quán (Extending Fist) and one other technique if he help recover 9 jin (12 lbs) of Madame Zhang Yating grain from the grain bandits",
+          "x": 2442,
+          "y": 1870,
           "size": 64
         },
         {
