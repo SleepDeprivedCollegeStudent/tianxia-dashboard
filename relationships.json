@@ -57,8 +57,13 @@
     },
     {
       "name": "Liu Yifan",
+      "score": -2,
+      "notes": "A merchant who name mentioned by Mingze. He has an outstanding gambling debt. He was not happy that you could not stop the two crates that was stolen"
+    },
+    {
+      "name": "Shen Yu",
       "score": 0,
-      "notes": "A merchant who name mentioned by Mingze. He has an outstanding gambling debt"
+      "notes": "Shen healed everyone after the group encounter the bandit when they try to ambush the caravan"
     }
   ],
   "organizations": [
