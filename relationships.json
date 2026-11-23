@@ -1,7 +1,7 @@
 {
   "updated": "Initial campaign ledger",
   "campaign": {
-    "date": "0940-09-02",
+    "date": "0940-09-07",
     "notes": ""
   },
   "npcs": [
@@ -64,6 +64,11 @@
       "name": "Shen Yu",
       "score": 0,
       "notes": "Shen healed everyone after the group encounter the bandit when they try to ambush the caravan"
+    },
+    {
+      "name": "Takeshi Daraku",
+      "score": -7,
+      "notes": "Ryujin's cousin who murdered Hachiro, Ryujin brother. He vie for the power of Ryujin clan and planning to take it for his clan."
     }
   ],
   "organizations": [
@@ -74,8 +79,8 @@
     },
     {
       "name": "Crimson Shogunate",
-      "score": 1,
-      "notes": "Ryujin came from here"
+      "score": -6,
+      "notes": "Ryujin came from here. Ryujin, his clan, and his group was blamed for the attack on Hechuan"
     },
     {
       "name": "Azure Mountain Confederacy",
