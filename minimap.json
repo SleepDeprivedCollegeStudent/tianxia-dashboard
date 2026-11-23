@@ -13,9 +13,9 @@
         "rotate": 0
       },
       "view": {
-        "x": 123.9689727999999,
-        "y": -253.72162560000038,
-        "zoom": 0.4933548269613262
+        "x": 199.66666666666669,
+        "y": 45.00000000000006,
+        "zoom": 0.7
       },
       "markers": [
         {
@@ -84,8 +84,8 @@
           "tokenId": null,
           "name": "The Weird House",
           "notes": "The house belong to Mr Zhou but for some reason heavily guarded and his daughter never leaves the house",
-          "x": 2060,
-          "y": 1862,
+          "x": 2033,
+          "y": 1884,
           "size": 44
         },
         {
@@ -97,16 +97,6 @@
           "x": 1539,
           "y": 52,
           "size": 62
-        },
-        {
-          "id": "id-mw8go0u7-mdqsf9o",
-          "type": "poi",
-          "tokenId": null,
-          "name": "The Bandits Handler",
-          "notes": "The Bandits delivered a message to the mysterious man before that man heads north while the bandits head south to distract the group. ",
-          "x": 855,
-          "y": 1411,
-          "size": 46
         },
         {
           "id": "id-mw8gq041-66dttsq",
@@ -124,9 +114,29 @@
           "tokenId": null,
           "name": "The vision",
           "notes": "Tekeru, Rujin, and Nihla saw visions when meditate at the shrine",
-          "x": 2515,
-          "y": 1989,
+          "x": 2503,
+          "y": 1952,
           "size": 44
+        },
+        {
+          "id": "id-mwsrq1zo-wqlmxgf",
+          "type": "quest",
+          "tokenId": null,
+          "name": "Lost Origin",
+          "notes": "A master from the White Crane Martial School want to talk to Ryouta about this father and the master can help if Ryouta willing to help him. ",
+          "x": 2269,
+          "y": 895,
+          "size": 62
+        },
+        {
+          "id": "id-mwsrst8b-lrqspwj",
+          "type": "poi",
+          "tokenId": null,
+          "name": "Hidden message",
+          "notes": "Appear to be a spot where the bandits pass messages to their handler",
+          "x": 867,
+          "y": 1408,
+          "size": 36
         }
       ],
       "fog": [
@@ -9814,80 +9824,110 @@
         "rotate": 0
       },
       "view": {
-        "x": -662.2111928659592,
-        "y": -377.4772376122322,
-        "zoom": 0.5525574061966867
+        "x": 199.66666666666669,
+        "y": 45.00000000000006,
+        "zoom": 0.7
       },
       "markers": [
-        {
-          "id": "id-mwskvhr1-4k65r8g",
-          "type": "token",
-          "tokenId": "id-mvhlcirx-gfb2sbp",
-          "name": "Tekeru",
-          "notes": "",
-          "x": 1753,
-          "y": 1283,
-          "size": 64
-        },
-        {
-          "id": "id-mwskvjer-0j61nu1",
-          "type": "token",
-          "tokenId": "id-mvhlcpqd-3lea3jh",
-          "name": "Ryujin",
-          "notes": "",
-          "x": 1651,
-          "y": 1198,
-          "size": 64
-        },
-        {
-          "id": "id-mwskvkzu-axu14tf",
-          "type": "token",
-          "tokenId": "id-mvhlcx9j-ff3g0hn",
-          "name": "Nihla",
-          "notes": "",
-          "x": 1789,
-          "y": 1158,
-          "size": 64
-        },
-        {
-          "id": "id-mwskvmzi-g13q43n",
-          "type": "token",
-          "tokenId": "id-mvhld073-43x16ay",
-          "name": "Feng",
-          "notes": "",
-          "x": 1771,
-          "y": 1213,
-          "size": 64
-        },
-        {
-          "id": "id-mwskvpbn-v5mfdqi",
-          "type": "token",
-          "tokenId": "id-mvhlg31g-r9wbxbg",
-          "name": "Ryouta",
-          "notes": "",
-          "x": 1693,
-          "y": 1242,
-          "size": 64
-        },
         {
           "id": "id-mwsl4o61-kknny5i",
           "type": "poi",
           "tokenId": null,
           "name": "The Red Larntern Inn",
-          "notes": "",
-          "x": 1720,
-          "y": 1170,
-          "size": 36
+          "notes": "Unpleasant rumors are spreading around the party involvement in the attack",
+          "x": 1712,
+          "y": 1166,
+          "size": 44
         },
         {
           "id": "id-mwsmcw8a-l5kzifg",
           "type": "poi",
           "tokenId": null,
-          "name": "Underground fighting ring",
+          "name": "Hechuan Ghost Arena",
+          "notes": "Underground fighting ring",
+          "x": 1835,
+          "y": 1429,
+          "size": 44
+        },
+        {
+          "id": "id-mwsrhzls-pbd0vuv",
+          "type": "quest",
+          "tokenId": null,
+          "name": "The Apothecary Quest",
+          "notes": "Shu needs help finding 5 lbs of Ghostroot in exchange for any 5 things from his shop for free",
+          "x": 1430,
+          "y": 1253,
+          "size": 62
+        },
+        {
+          "id": "id-mwsrkbt3-qdqeg9n",
+          "type": "poi",
+          "tokenId": null,
+          "name": "The Aftermath",
+          "notes": "Investigate the aftermath of the attack",
+          "x": 523,
+          "y": 847,
+          "size": 44
+        },
+        {
+          "id": "id-mwsrmp4b-n254m2l",
+          "type": "poi",
+          "tokenId": null,
+          "name": "The Triage",
+          "notes": "The marketplace has been converted into a medical triage and shelter for the victim and people who lost their home during the attack",
+          "x": 1105,
+          "y": 1220,
+          "size": 42
+        },
+        {
+          "id": "id-mwstk1l0-71mlmdb",
+          "type": "token",
+          "tokenId": "id-mvhlcirx-gfb2sbp",
+          "name": "Tekeru",
           "notes": "",
-          "x": 1825,
-          "y": 1431,
-          "size": 36
+          "x": 1813,
+          "y": 1472,
+          "size": 64
+        },
+        {
+          "id": "id-mwstk34d-os70dr7",
+          "type": "token",
+          "tokenId": "id-mvhlcpqd-3lea3jh",
+          "name": "Ryujin",
+          "notes": "",
+          "x": 1847,
+          "y": 1379,
+          "size": 64
+        },
+        {
+          "id": "id-mwstk4y0-fnfoc7w",
+          "type": "token",
+          "tokenId": "id-mvhlcx9j-ff3g0hn",
+          "name": "Nihla",
+          "notes": "",
+          "x": 1877,
+          "y": 1464,
+          "size": 64
+        },
+        {
+          "id": "id-mwstk6fc-xvl3kvi",
+          "type": "token",
+          "tokenId": "id-mvhld073-43x16ay",
+          "name": "Feng",
+          "notes": "",
+          "x": 1757,
+          "y": 1404,
+          "size": 64
+        },
+        {
+          "id": "id-mwstk86j-9afafk9",
+          "type": "token",
+          "tokenId": "id-mvhlg31g-r9wbxbg",
+          "name": "Ryouta",
+          "notes": "",
+          "x": 1911,
+          "y": 1401,
+          "size": 64
         }
       ],
       "fog": [

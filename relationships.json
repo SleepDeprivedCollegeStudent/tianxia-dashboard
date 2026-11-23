@@ -94,6 +94,16 @@
       "name": "Mr. Peck",
       "score": 1,
       "notes": "A chicken who knows martial arts."
+    },
+    {
+      "name": "Shu",
+      "score": 0,
+      "notes": "Hechuan apothecary"
+    },
+    {
+      "name": "Houbi",
+      "score": 0,
+      "notes": "Hechuan Underground Fight Organizer"
     }
   ],
   "organizations": [
