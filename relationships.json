@@ -94,6 +94,11 @@
       "name": "Mr. Peck",
       "score": 1,
       "notes": "A chicken who knows martial arts."
+    },
+    {
+      "name": "Mr. Peck",
+      "score": 1,
+      "notes": "A chicken who knows martial arts."
     }
   ],
   "organizations": [
@@ -124,8 +129,8 @@
     },
     {
       "name": "White Crane Martial School",
-      "score": 0,
-      "notes": ""
+      "score": 1,
+      "notes": "The martial school took an interested in Ryouta they want to meet him in Sep 21 in Willow Creek"
     }
   ]
 }
