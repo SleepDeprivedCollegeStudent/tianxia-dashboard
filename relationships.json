@@ -2,7 +2,7 @@
   "updated": "Initial campaign ledger",
   "campaign": {
     "date": "0940-09-08",
-    "notes": "Day 14 of the truce."
+    "notes": "Day 14 of the truce. Delegations arrive and courts exchange condolences, messages, and formal petitions. 35 days remain after this day before the mourning accord expires."
   },
   "npcs": [
     {
@@ -96,6 +96,16 @@
       "notes": "A chicken who knows martial arts."
     },
     {
+      "name": "The Hechuan Arena Gatekeeper",
+      "score": 0,
+      "notes": "The Gatekeeper guards the entrance of Huchuan Ghost Arena."
+    },
+    {
+      "name": "The Hechuan Arena Bouncer",
+      "score": 0,
+      "notes": "The bouncer guards the entrance of Huchuan Ghost Arena. He checks the passwords."
+    },
+    {
       "name": "Shu",
       "score": 0,
       "notes": "Hechuan apothecary"
@@ -104,6 +114,21 @@
       "name": "Houbi",
       "score": 0,
       "notes": "Hechuan Underground Fight Organizer"
+    },
+    {
+      "name": "Mysterious Young Master from White Crane Martial School",
+      "score": 0,
+      "notes": "The Mysterious Young Master who wants to meet Ryouta at Willow Creek. He interested in Ryouta abilities and offer aids."
+    },
+    {
+      "name": "Phantom",
+      "score": -1,
+      "notes": "Phantom is a infamous bandit the group saw at the Rat Spire while the group watching the fights. He has the reputation to can not be caught."
+    },
+    {
+      "name": "The Tunneling Bandit",
+      "score": -1,
+      "notes": "The Tunneling Bandit is a infamous bandit the group saw at the Rat Spire while the group watching the fights. He has the reputation break into placed by tunneling."
     }
   ],
   "organizations": [
