@@ -161,6 +161,16 @@
       "name": "White Crane Martial School",
       "score": 1,
       "notes": "The martial school took an interested in Ryouta they want to meet him in Sep 21 in Willow Creek"
+    },
+    {
+      "name": "Willow Creek Local",
+      "score": 0,
+      "notes": "The town local does not feel any particular way towards the group"
+    },
+    {
+      "name": "Hechuan Local",
+      "score": -1,
+      "notes": "The town local farmers are spreading rumor against the group"
     }
   ]
 }
