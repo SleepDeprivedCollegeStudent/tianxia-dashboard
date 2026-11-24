@@ -73,9 +73,9 @@
           "type": "quest",
           "tokenId": null,
           "name": "Return Shen Stolen Herbs",
-          "notes": "Shen told the group that the bandits are dangerous. He suggest that the group need to prepare before going after One-eye Han. If the gruop can find Shen's missing caravan, the group can treat themselves to the martial manuals. ",
-          "x": 1268,
-          "y": 589,
+          "notes": "Shen requested that the party locate his missing caravan, offering martial manuals as a reward.",
+          "x": 1258,
+          "y": 611,
           "size": 62
         },
         {
@@ -92,10 +92,10 @@
           "id": "id-mw8gm87h-uge33jj",
           "type": "quest",
           "tokenId": null,
-          "name": "The Bandits Camp",
-          "notes": "The captured bandits and a merchant recall a camp by an old military road in the northern woods.",
-          "x": 1539,
-          "y": 52,
+          "name": "The Riverside Fort",
+          "notes": "A recovered ledger documents shipments of Ghostroot to an abandoned fort between Willow Creek and Hechuan.",
+          "x": 1547,
+          "y": 46,
           "size": 62
         },
         {
@@ -103,8 +103,8 @@
           "type": "poi",
           "tokenId": null,
           "name": "Investigate the magistrate",
-          "notes": "The group witness the bandit get released after they turn the bandit in. ",
-          "x": 1702,
+          "notes": "The authorities released two captured bandits under suspicious circumstances. The party suspects the magistrate may be corrupt.",
+          "x": 1700,
           "y": 646,
           "size": 44
         },
@@ -137,6 +137,16 @@
           "x": 867,
           "y": 1408,
           "size": 36
+        },
+        {
+          "id": "id-mwua3qgu-qzla46v",
+          "type": "quest",
+          "tokenId": null,
+          "name": "The Teachings of Master Wu Lan",
+          "notes": "An exceptionally skilled martial artist offered Ryouta an opportunity to prove himself.",
+          "x": 417,
+          "y": 619,
+          "size": 64
         }
       ],
       "fog": [
@@ -9824,9 +9834,9 @@
         "rotate": 0
       },
       "view": {
-        "x": -137.1422293333335,
-        "y": -125.09702400000015,
-        "zoom": 0.45731311970534083
+        "x": 199.66666666666669,
+        "y": 45.00000000000006,
+        "zoom": 0.3255064456721915
       },
       "markers": [
         {
@@ -9853,7 +9863,7 @@
           "id": "id-mwsrhzls-pbd0vuv",
           "type": "quest",
           "tokenId": null,
-          "name": "The Apothecary Quest",
+          "name": "The Apothecary ",
           "notes": "Shu needs help finding 5 lbs of Ghostroot in exchange for any 5 things from his shop for free",
           "x": 1430,
           "y": 1253,
@@ -9870,14 +9880,14 @@
           "size": 44
         },
         {
-          "id": "id-mwsrmp4b-n254m2l",
-          "type": "poi",
+          "id": "id-mwua5iba-8ttwcxo",
+          "type": "quest",
           "tokenId": null,
-          "name": "The Triage",
-          "notes": "The marketplace has been converted into a medical triage and shelter for the victim and people who lost their home during the attack",
-          "x": 1105,
-          "y": 1220,
-          "size": 42
+          "name": "Rebuilding Hechuan",
+          "notes": "Numerous civilians require medical assistance, shelter, and aid following the bombardment.",
+          "x": 1087,
+          "y": 1166,
+          "size": 62
         }
       ],
       "fog": [
@@ -14905,9 +14915,9 @@
         "rotate": 0
       },
       "view": {
-        "x": 138.85915314105216,
-        "y": 92.41126782069966,
-        "zoom": 0.5812615101289136
+        "x": 199.66666666666669,
+        "y": 45.00000000000006,
+        "zoom": 0.651012891344383
       },
       "markers": [
         {
@@ -14964,8 +14974,8 @@
           "id": "id-mwu91t1x-g8nis57",
           "type": "poi",
           "tokenId": null,
-          "name": "The Champion",
-          "notes": "",
+          "name": "The Champions",
+          "notes": "Phantom and the Tunneling Bandit were spotted in the Rat Spire",
           "x": 791,
           "y": 465,
           "size": 36

@@ -47,7 +47,7 @@
     },
     {
       "name": "One-Eyed Han",
-      "score": -4,
+      "score": -5,
       "notes": "Retired soldiers gone rouge with a lot of friends in the higher ups. Appear to be the gangsters new boss"
     },
     {
@@ -171,6 +171,16 @@
       "name": "Hechuan Local",
       "score": -1,
       "notes": "The town local farmers are spreading rumor against the group"
+    },
+    {
+      "name": "Hechuan Ghost Arena Underworld",
+      "score": 0,
+      "notes": "They does not feel any particular way towards the group"
+    },
+    {
+      "name": "The Bandits",
+      "score": -8,
+      "notes": "They are seeks revenge for their fallen comrades"
     }
   ]
 }
